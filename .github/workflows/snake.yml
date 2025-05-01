@@ -2,29 +2,30 @@ name: Generate Snake Game 🐍
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # roda todo dia à meia-noite
-  workflow_dispatch:
+    - cron: "0 0 * * *"
+  workflow_dispatch: 
 
 jobs:
   generate:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write  # Permissão para commit e push
+      contents: write  
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v3 
 
       - name: generate-snake-game-from-github-contribution-grid
-        uses: Platane/snk@v3.3.0
+        uses: Platane/snk@v3.3.0  
         with:
-          github_user_name: wtomendes
+          github_user_name: wtomendes  
           outputs: |
-            output/github-contribution-grid-snake.svg?palette=github-dark&color_snake=#7845ab&color_dots=#ebedf0,#c6e48b,#7bc96f,#239a3b,#196127
+            output/github-contribution-grid-snake.svg?palette=github-dark&color_snake=#7845ab&color_dots=#ebedf0,#c6e48b,#7bc96f,#239a3b,#196127 
 
       - name: Commit and push
-        uses: EndBug/add-and-commit@v9
+        uses: EndBug/add-and-commit@v9  
         with:
-          message: "🐍 atualizando cobrinha"
-          add: "output/github-contribution-grid-snake.svg"  # Garante que o arquivo gerado seja commitado
+          message: "🐍 atualizando cobrinha"  
+          add: "output/github-contribution-grid-snake.svg"  
+          github_token: ${{ secrets.GITHUB_TOKEN }}  
