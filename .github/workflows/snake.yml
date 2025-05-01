@@ -27,5 +27,5 @@ jobs:
         uses: EndBug/add-and-commit@v9
         with:
           message: "🐍 atualizando cobrinha"
+          add: "output/github-contribution-grid-snake.svg"  # Garante que o arquivo gerado seja commitado
           github_token: ${{ secrets.GITHUB_TOKEN }}
-
