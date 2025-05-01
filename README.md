@@ -21,6 +21,11 @@ Sou estudante de Análise e Desenvolvimento de Sistemas no IFSP. Tenho interesse
 
 ## ⏱️ Meu tempo programando
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 
