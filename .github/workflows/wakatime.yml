@@ -1,21 +1,22 @@
-name: Atualizar WakaTime no README
+name: WakaTime for Readme
 
 on:
   schedule:
-    - cron: '0 0 * * *'  
+    - cron: '0 0 * * *'  # todo dia à meia-noite
   workflow_dispatch:
+
+permissions:
+  contents: write  # 👉 necessário para permitir commits automáticos
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-
     steps:
       - uses: athul/waka-readme@v0.1.6
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
           TIME_RANGE: last_7_days
-          LANG_COUNT: 5
           SHOW_TIME: true
           SHOW_TOTAL: true
 
