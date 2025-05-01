@@ -1,5 +1,5 @@
-<p align="center">
-    <img src="readme-assets/welcome.png" />
+</p>
+    <img src="readme-assets/welcomegif.gif" />
 </p>
 
 ## 🚀 Sobre mim
@@ -15,12 +15,20 @@ Sou estudante de Análise e Desenvolvimento de Sistemas no IFSP. Tenho interesse
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wtomendes&show_icons=true&bg_color=000000&title_color=ff6b00&text_color=ffffff&icon_color=ff6b00&border_color=ff6b00" alt="Estatísticas do GitHub" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wtomendes&layout=compact&bg_color=000000&title_color=ff6b00&text_color=ffffff&border_color=ff6b00" alt="Linguagens mais usadas" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=wtomendes&show_icons=true&bg_color=000000&title_color=499b40&text_color=ffffff&icon_color=499b40&border_color=499b40" alt="Estatísticas do GitHub" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wtomendes&layout=compact&bg_color=000000&title_color=499b40&text_color=ffffff&border_color=499b40" alt="Linguagens mais usadas" height="180"/>
 </div>
 
+## ⏱️ Meu tempo programando
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 ## 🐍 Contribuições
-![Snake animation](https://github.com/wtomendes/wtomendes/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/wtomendes/wtomendes/blob/main/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
 
 ## Linkedin
 <a href="https://www.linkedin.com/in/wmendesc/" target="_blank">
