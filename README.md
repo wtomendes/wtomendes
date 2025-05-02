@@ -22,6 +22,10 @@ I'm a Systems Analysis and Development student at IFSP (Federal Institute of Sã
 ## ⏱ My Coding Time
 <!--START_SECTION:waka-->
 
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 
