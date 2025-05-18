@@ -23,7 +23,11 @@ I'm a Systems Analysis and Development student at IFSP (Federal Institute of Sã
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 10 May 2025 - To: 17 May 2025
+
+Total Time: 14 mins
+
+Python   14 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
