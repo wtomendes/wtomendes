@@ -23,12 +23,12 @@ I'm a Systems Analysis and Development student at IFSP (Federal Institute of Sã
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 June 2025 - To: 02 July 2025
+From: 26 June 2025 - To: 03 July 2025
 
-Total Time: 1 hr 29 mins
+Total Time: 1 hr 54 mins
 
-C        1 hr 12 mins    ████████████████████▒░░░░   81.04 %
-Python   17 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.96 %
+C        1 hr 16 mins    ████████████████▓░░░░░░░░   66.71 %
+Python   38 mins         ████████▒░░░░░░░░░░░░░░░░   33.29 %
 ```
 
 <!--END_SECTION:waka-->
