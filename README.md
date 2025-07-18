@@ -23,14 +23,16 @@ I'm a Systems Analysis and Development student at IFSP (Federal Institute of Sã
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 July 2025 - To: 16 July 2025
+From: 10 July 2025 - To: 17 July 2025
 
-Total Time: 30 mins
+Total Time: 33 mins
 
-HTML         12 mins         ██████████▒░░░░░░░░░░░░░░   41.29 %
-CSS          9 mins          ████████░░░░░░░░░░░░░░░░░   31.46 %
-JavaScript   4 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.10 %
-JSON         3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.15 %
+HTML         12 mins         █████████▓░░░░░░░░░░░░░░░   38.68 %
+CSS          9 mins          ███████▒░░░░░░░░░░░░░░░░░   29.47 %
+JavaScript   4 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.08 %
+JSON         3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.44 %
+C            1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
+Python       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
 ```
 
 <!--END_SECTION:waka-->
