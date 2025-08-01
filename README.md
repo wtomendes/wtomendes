@@ -23,7 +23,7 @@ I'm a Systems Analysis and Development student at IFSP (Federal Institute of Sã
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 July 2025 - To: 30 July 2025
+From: 24 July 2025 - To: 31 July 2025
 
 Total Time: 19 mins
 
