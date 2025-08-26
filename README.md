@@ -14,19 +14,18 @@ I'm a Systems Analysis and Development student at IFSP (Federal Institute of Sã
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wtomendes&show_icons=true&bg_color=000000&title_color=499b40&text_color=ffffff&icon_color=499b40&border_color=499b40" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wtomendes&layout=compact&bg_color=000000&title_color=499b40&text_color=ffffff&border_color=499b40" alt="Most Used Languages" height="180"/>
-</div>
-
-## ⏱ My Coding Time
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=wtomendes&show_icons=true&bg_color=000000&title_color=499b40&text_color=ffffff&icon_color=499b40&border_color=499b40" 
+           alt="GitHub Stats" height="180" width="420"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wtomendes&layout=compact&bg_color=000000&title_color=499b40&text_color=ffffff&border_color=499b40" 
+           alt="Most Used Languages" height="180" width="420"/>
+    </td>
+  </tr>
+</table>
 
 
 ## 🐍 Contributions
